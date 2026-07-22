@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8447fbe.css",
-    "main.js": "/static/js/main.2d68778f.js",
+    "main.css": "/static/css/main.1eed924d.css",
+    "main.js": "/static/js/main.9f8cf56b.js",
     "static/js/453.e0b89b70.chunk.js": "/static/js/453.e0b89b70.chunk.js",
     "static/media/backgroundVid.mp4": "/static/media/backgroundVid.14ab3a8850c56a319772.mp4",
+    "static/media/referral_bonus.png": "/static/media/referral_bonus.29d99ddfd5fac0e1af16.png",
     "static/media/Jonathan Crimson.png": "/static/media/Jonathan Crimson.c4dd99bbf58da7c04e42.png",
     "static/media/airplane.jpg": "/static/media/airplane.c0c517b45fcf50f9438a.jpg",
     "static/media/person_1.jpg": "/static/media/person_1.51e12b983531f6559126.jpg",
@@ -13,6 +14,7 @@
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/bg-doctor.png": "/static/media/bg-doctor.11f7b0f28aa7258d486d.png",
     "static/media/btc.png": "/static/media/btc.e82cd967d60c2dc95c39.png",
+    "static/media/transparentbtclogo.png": "/static/media/transparentbtclogo.59e8184ded58956df707.png",
     "static/media/bg.png": "/static/media/bg.3920461de393e6771200.png",
     "static/media/doctor_1.jpg": "/static/media/doctor_1.db7a7550cabc5ee01852.jpg",
     "static/media/entrepreneurs-source.webp": "/static/media/entrepreneurs-source.0d50254a23bbe9f17101.webp",
@@ -43,12 +45,12 @@
     "static/media/mastercard.webp": "/static/media/mastercard.cf5e005a5680634c8030.webp",
     "static/media/dogecoin.svg": "/static/media/dogecoin.71886046079dc5a5299489a7e95b7555.svg",
     "static/media/usdt.svg": "/static/media/usdt.d8f170d67df12f7ffcdbab2979ab9543.svg",
-    "main.f8447fbe.css.map": "/static/css/main.f8447fbe.css.map",
-    "main.2d68778f.js.map": "/static/js/main.2d68778f.js.map",
+    "main.1eed924d.css.map": "/static/css/main.1eed924d.css.map",
+    "main.9f8cf56b.js.map": "/static/js/main.9f8cf56b.js.map",
     "453.e0b89b70.chunk.js.map": "/static/js/453.e0b89b70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8447fbe.css",
-    "static/js/main.2d68778f.js"
+    "static/css/main.1eed924d.css",
+    "static/js/main.9f8cf56b.js"
   ]
 }
